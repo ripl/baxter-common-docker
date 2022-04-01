@@ -1,0 +1,3 @@
+[submodule "packages/baxter_common"]
+	path = packages/baxter_common
+	url = git@github.com:ripl/baxter_common.git

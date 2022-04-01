@@ -1,0 +1,4 @@
+# LIST YOUR APT PACKAGES HERE
+ros-noetic-control-msgs
+ros-noetic-cv-bridge
+ros-noetic-xacro

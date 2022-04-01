@@ -1,0 +1,9 @@
+{
+    "description": "Cpk-fied baxter-common",
+    "maintainer": "RIPL",
+    "name": "baxter-common-docker",
+    "organization": "ripl",
+    "schema": "1.0",
+    "template": null,
+    "version": "0.0.0"
+}
